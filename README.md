@@ -1,3 +1,5 @@
+### NOTE: Dell EMC OpenManage Ansible Modules for iDRAC has now been moved to https://github.com/dell/Dell-EMC-Ansible-Modules-for-iDRAC. Please use this location for the latest update to the repository. This repository will not be having active updates.
+
 # Dell EMC OpenManage Ansible Modules (BETA)
 
 Dell EMC OpenManage Ansible Modules provide customers the ability to automate the Out-of-Band configuration management, deployment and updates for Dell EMC PowerEdge Servers using Ansible by leveraging the management automation built into the iDRAC with Lifecycle Controller. iDRAC provides both REST APIs based on DMTF RedFish industry standard and WS-Management (WS-MAN) based on DMTF's Web Services management standard for management automation of PowerEdge Servers.
